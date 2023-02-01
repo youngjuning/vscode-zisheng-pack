@@ -4,7 +4,13 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.2.2]
+## 0.2.3
+
+### Remove
+
+- AT-9420.console-helper
+
+## 0.2.2
 
 ### Remove
 
@@ -18,7 +24,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - ms-vscode.remote-explorer
 - Dart-Code.flutter
 
-## [0.2.1]
+## 0.2.1
 
 ### Remove
 
