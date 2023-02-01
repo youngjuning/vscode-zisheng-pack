@@ -9,6 +9,8 @@ Luozhu's Extension Pack
 - Material Icon Theme
 - Atom Keymap
 - Fluent Icons
+- Indent-rainbow
+- Color Highlight
 
 ## Language Pack
 
@@ -45,6 +47,12 @@ Luozhu's Extension Pack
 - ES7+ React/Redux/React-Native snippets
 - Next.js snippets
 
+## Preview
+
+- Yarn Lock Preview
+- Image preview
+- SVG
+
 ## Vue
 
 - Vetur
@@ -70,19 +78,14 @@ Luozhu's Extension Pack
 
 ## Other
 
-- Color Highlight
 - CSS Modules
 - GitLens
 - Auto Complete Tag
 - i18n Ally
-- Image preview
-- Indent-rainbow
 - Live Server
 - NPM Trends
 - Open
 - Remote - SSH
 - REST Client
-- SVG
 - TODO Tree
 - WakaTime
-- Yarn Lock Preview
