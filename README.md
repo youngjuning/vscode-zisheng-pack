@@ -3,7 +3,7 @@
 Luozhu's Extension Pack
 
 
-## 个性化
+## Personalise
 
 - Atom One Light Theme
 - Material Icon Theme
@@ -41,8 +41,9 @@ Luozhu's Extension Pack
 
 ## Snippet
 
-- console helper
 - Jest Snippets
+- ES7+ React/Redux/React-Native snippets
+- Next.js snippets
 
 ## Vue
 
@@ -50,8 +51,6 @@ Luozhu's Extension Pack
 
 ## React
 
-- ES7+ React/Redux/React-Native snippets
-- Next.js snippets
 - VSCode React Refactor
 
 ## Flutter
