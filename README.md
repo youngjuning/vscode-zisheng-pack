@@ -19,6 +19,7 @@ Luozhu's Extension Pack.
 - ESLint
 - Prettier
 - Trailing Spaces
+- Visual Studio Code Commitizen Support
 
 ## Programming Languages
 
