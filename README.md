@@ -1,7 +1,6 @@
 # vscode-luozhu-pack
 
-Luozhu's Extension Pack
-
+Luozhu's Extension Pack.
 
 ## Personalise
 
@@ -43,6 +42,7 @@ Luozhu's Extension Pack
 - Vetur
 - Flutter
 - Go
+- Tuya Smart Miniapp
 
 ## Snippet
 
