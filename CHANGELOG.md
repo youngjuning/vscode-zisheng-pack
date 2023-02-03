@@ -4,6 +4,16 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.2.4
+
+### Remove
+
+- planbcoding.vscode-react-refactor
+
+### Add
+
+- alefragnani.project-manager
+
 ## 0.2.3
 
 ### Remove

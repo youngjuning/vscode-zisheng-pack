@@ -40,6 +40,9 @@ Luozhu's Extension Pack
 - Syntax Highlighting for yarn.lock files
 - WXML - Language Service
 - YAML
+- Vetur
+- Flutter
+- Go
 
 ## Snippet
 
@@ -52,22 +55,6 @@ Luozhu's Extension Pack
 - Yarn Lock Preview
 - Image preview
 - SVG
-
-## Vue
-
-- Vetur
-
-## React
-
-- VSCode React Refactor
-
-## Flutter
-
-- Flutter
-
-## Go
-
-- Go
 
 ## Rust
 

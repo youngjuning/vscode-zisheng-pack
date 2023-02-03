@@ -18,6 +18,7 @@
   "extensionPack": [
     "ahmadalli.vscode-nginx-conf",
     "akamud.vscode-theme-onelight",
+    "alefragnani.project-manager",
     "andys8.jest-snippets",
     "bungcip.better-toml",
     "clinyong.vscode-css-modules",
@@ -48,7 +49,6 @@
     "octref.vetur",
     "oderwat.indent-rainbow",
     "PKief.material-icon-theme",
-    "planbcoding.vscode-react-refactor",
     "PulkitGangwar.nextjs-snippets",
     "qiu8310.minapp-vscode",
     "redhat.vscode-yaml",
