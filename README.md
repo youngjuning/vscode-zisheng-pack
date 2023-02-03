@@ -4,16 +4,13 @@ Luozhu's Extension Pack.
 
 ## Personalise
 
-- Atom One Light Theme
-- Material Icon Theme
-- Atom Keymap
-- Fluent Icons
-- Indent-rainbow
-- Color Highlight
-
-## Language Pack
-
-- Chinese(Simplified)(简体中文)
+- Atom One Light Theme：Atom 亮色主题
+- Atom Keymap：Atom 按键绑定
+- Material Icon Theme：
+- Fluent Icons：漂亮的产品 Icon
+- Indent-rainbow：彩虹🌈缩进
+- Color Highlight：高亮色彩
+- Chinese(Simplified)(简体中文)：简体中文语言包
 
 ## Linters
 
