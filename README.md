@@ -5,8 +5,9 @@ Luozhu's Extension Pack.
 ## Personalise
 
 - Atom One Light Theme：Atom 亮色主题
+- Dracula Official：官方 Dracula Theme。一个被广泛使用的暗色主题
 - Atom Keymap：Atom 按键绑定
-- Material Icon Theme：
+- Material Icon Theme：漂亮的 Icon 主题
 - Fluent Icons：漂亮的产品 Icon
 - Indent-rainbow：彩虹🌈缩进
 - Color Highlight：高亮色彩
@@ -20,6 +21,7 @@ Luozhu's Extension Pack.
 - Prettier
 - Trailing Spaces
 - Visual Studio Code Commitizen Support
+- JSON Sorter：给 JSON 文件排序的插件
 
 ## Programming Languages
 
