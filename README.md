@@ -5,7 +5,7 @@ Luozhu's Extension Pack.
 ## Personalise
 
 - Atom One Light Theme：Atom 亮色主题
-- Dracula Official：官方 Dracula Theme。一个被广泛使用的暗色主题
+- Atom One Dark Theme：Atom 暗色主题
 - Atom Keymap：Atom 按键绑定
 - Material Icon Theme：漂亮的 Icon 主题
 - Fluent Icons：漂亮的产品 Icon
@@ -76,3 +76,4 @@ Luozhu's Extension Pack.
 - REST Client
 - TODO Tree
 - WakaTime
+- ChatGPT：在 vscode 中集成 ChatGPT、GPT-3 和 Codex conversation 了

@@ -4,6 +4,17 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.3.1
+
+### Add
+
+- akamud.vscode-theme-onedark
+- gencay.vscode-chatgpt
+
+### Remove
+
+- dracula-theme.theme-dracula
+
 ## 0.3.0
 
 ### Add
