@@ -63,6 +63,12 @@ Luozhu's Extension Pack.
 - crates
 - rust-anylyzer
 
+## AI
+
+- ChatGPT：在 vscode 中集成 ChatGPT、GPT-3 和 Codex conversation
+- GitHub Copilot：在 vscode 中集成 GitHub Copilot
+- GitHub Copilot Labs：GitHub Copilot Labs 是 GitHub Copilot 的配套扩展，在侧边栏中包含实验性和新兴功能。
+
 ## Other
 
 - CSS Modules
@@ -76,4 +82,3 @@ Luozhu's Extension Pack.
 - REST Client
 - TODO Tree
 - WakaTime
-- ChatGPT：在 vscode 中集成 ChatGPT、GPT-3 和 Codex conversation 了
