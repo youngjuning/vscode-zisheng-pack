@@ -4,6 +4,22 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.3.3
+
+### Add
+
+- genieai.chatgpt-vscode
+- michelemelluso.gitignore
+- youngjuning.hexo-butterfly-tag-plugins-plus-snippets
+- fantasy.vscode-hexo-utils
+- xyz.local-history
+- gera2ld.markmap-vscode
+- bpruitt-goddard.mermaid-markdown-syntax-highlighting
+
+### Remove
+
+- gencay.vscode-chatgpt
+
 ## 0.3.2
 
 ### Add
