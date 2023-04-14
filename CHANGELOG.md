@@ -4,6 +4,12 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 0.3.4
+
+### Remove
+
+- GitHub.copilot-labs
+
 ## 0.3.3
 
 ### Add

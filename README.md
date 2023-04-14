@@ -69,7 +69,6 @@ Luozhu's Extension Pack.
 
 - ChatGPT - Genie AI：A Visual Studio Code - ChatGPT Integration
 - GitHub Copilot：在 vscode 中集成 GitHub Copilot
-- GitHub Copilot Labs：GitHub Copilot Labs 是 GitHub Copilot 的配套扩展，在侧边栏中包含实验性和新兴功能。
 
 ## Other
 
