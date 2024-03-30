@@ -4,6 +4,10 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.0.0
+
+The first official version is released
+
 ## 0.3.4
 
 ### Remove

@@ -1,88 +1,68 @@
 # vscode-luozhu-pack
 
-Luozhu's Extension Pack.
+紫升的个人扩展包
 
-## Personalise
+## 必备
 
-- Atom One Light Theme：Atom 亮色主题
-- Atom One Dark Theme：Atom 暗色主题
-- Atom Keymap：Atom 按键绑定
-- Material Icon Theme：漂亮的 Icon 主题
-- Fluent Icons：漂亮的产品 Icon
-- Indent-rainbow：彩虹🌈缩进
-- Color Highlight：高亮色彩
-- Chinese(Simplified)(简体中文)：简体中文语言包
-
-## Linters
-
-- Code Spell Checker
-- EditorConfig for VS Code
-- ESLint
-- Prettier
-- Trailing Spaces
-- Visual Studio Code Commitizen Support
-- JSON Sorter：给 JSON 文件排序的插件
-
-## Programming Languages
-
-- Bazel
-- DotENV
-- Gradle Language Support
-- Ignore
-- MDX
-- NGINX Configuration Language Support（nginx.config）
-- PropertyList（.plist）
-- Sass
-- styled-jsx Language Server
-- styled-jsx Syntax Highlighting
-- Swig（.tpl）
-- Syntax Highlighting for yarn.lock files
-- WXML - Language Service
-- YAML
-- Vetur
-- Flutter
-- Go
-- Tuya Smart Miniapp
-
-## Snippet
-
-- Jest Snippets
-- ES7+ React/Redux/React-Native snippets
-- Next.js snippets
-- Hexo Butterfly Tag Plugins Plus Snippets
-
-## Preview
-
-- Yarn Lock Preview
-- Image preview
-- SVG
-- Markmap
+1. akamud.vscode-theme-onelight：Atom 亮色主题
+1. akamud.vscode-theme-onedark：Atom 暗色主题
+1. ms-vscode.atom-keybindings：Atom 按键绑定
+1. PKief.material-icon-theme：漂亮的 Icon 主题
+1. miguelsolorio.fluent-icons：漂亮的产品 Icon
+1. oderwat.indent-rainbow：彩虹🌈缩进
+1. naumovs.color-highlight：高亮色彩
+1. MS-CEINTL.vscode-language-pack-zh-hans：简体中文语言包
+1. alefragnani.project-manager：轻松切换项目
+1. streetsidesoftware.code-spell-checker：源代码拼写检查器
+1. shardulm94.trailing-spaces：突出显示尾随空格并快速删除它们！
+1. esbenp.prettier-vscode：使用 Prettier 的代码格式化工具
+1. EditorConfig.EditorConfig：Visual Studio Code 的 EditorConfig 支持
+1. dbaeumer.vscode-eslint：将 ESLint JavaScript 集成到 VS Code 中。
+1. KnisterPeter.vscode-commitizen：使用规范进行 Git 提交
+1. eamodio.gitlens：在 VS Code 中激发 Git 的超能力
+1. formulahendry.auto-complete-tag：可以自动添加 HTML/XML 的闭合标签和重命名配对标签
+1. TGruntfuggly.todo-tree：在树状视图中显示 TODO、FIXME 等注释标记
+1. michelemelluso.gitignore：将文件添加到 .gitignore
+1. sandcastle.vscode-open：使用操作系统的默认程序打开当前文件
+1. ms-vscode-remote.remote-ssh：使用 SSH 在远程机器上打开任何文件夹，并充分利用 VS Code 的全部功能集。
+1. ritwickdey.LiveServer：启动一个带有静态和动态页面实时重载功能的开发本地服务器
+1. humao.rest-client：Visual Studio Code 的 REST 客户端功能
+1. youngjuning.npm-trends：vscode hover extension for https://www.npmtrends.com/
+1. lokalise.i18n-ally：Visual Studio Code 的多语言国际化一体化扩展
+1. chen86860.json-sorter：用于对 JSON 文件进行排序的 VSCode 扩展
+1. kisstkondoros.vscode-gutter-preview：在边栏和悬停中显示图像预览
+1. jock.svg：SVG 编码、压缩、美化、预览一体化
+1. bpruitt-goddard.mermaid-markdown-syntax-highlighting：Markdown 语法支持 Mermaid 图表语言
+1. Syler.ignore：Adds syntax highlighting and autocompletion for all ignore files.
+1. redhat.vscode-yaml：YAML Language Support by Red Hat, with built-in Kubernetes syntax support
+1. zhangciwu.swig-tpl：A language support for Swig
+1. mikestead.dotenv：Support for dotenv file syntax
+1. zhouronghui.propertylist：用于 .plist 文件的 Visual Studio Code 扩展代码片段
+1. ahmadalli.vscode-nginx-conf：Visual Studio Code 的 Nginx 配置助手，包括语法高亮、自动完成、编辑器内文档、嵌入式 Lua 代码块等多项功能
+1. naco-siren.gradle-language：Add Gradle language support for Visual Studio Code
+1. mariusschulz.yarn-lock-syntax：yarn.lock 文件的语法高亮显示
+1. qiu8310.minapp-vscode：WXML 语言支持
+1. clinyong.vscode-css-modules：Visual Studio Code 用于 CSS 模块的扩展程序
+1. syler.sass-indented：缩进的 Sass 语法高亮显示、自动完成和格式化
+1. unifiedjs.vscode-mdx：MDX 语言支持
+1. Divlo.vscode-styled-jsx-languageserver：用于 styled-jsx 的语言服务器
+1. Divlo.vscode-styled-jsx-syntax：styled-jsx 的语法高亮显示
+1. octref.vetur：Visual Studio Code 的 Vue 工具
+1. fantasy.vscode-hexo-utils：用于 Hexo 的 Visual Studio Code 扩展
+1. Dart-Code.flutter：Visual Studio Code 的 Flutter 支持和调试器。
+1. golang.go：Visual Studio Code 的丰富 Go 语言支持
 
 ## Rust
 
-- Better TOML
-- CodeLLDB
-- crates
-- rust-anylyzer
+1. rust-lang.rust-analyzer：Rust 语言支持
+1. vadimcn.vscode-lldb：一个由LLDB提供支持的本地调试器。调试c++， Rust等编译语言。
+1. tamasfe.even-better-toml：全功能的TOML支持
+1. serayuzgur.crates：帮助Rust开发人员管理Cargo.toml的依赖关系。
+1. bazelbuild.vscode-bazel：Bazel BUILD集成
 
-## AI
+## 代码片段
 
-- ChatGPT - Genie AI：A Visual Studio Code - ChatGPT Integration
-- GitHub Copilot：在 vscode 中集成 GitHub Copilot
-
-## Other
-
-- CSS Modules
-- GitLens
-- Auto Complete Tag
-- i18n Ally
-- Live Server
-- NPM Trends
-- Open
-- Remote - SSH
-- REST Client
-- TODO Tree
-- WakaTime
-- gitignore
-- Hexo Utils
-- Local History
+1. youngjuning.hexo-butterfly-tag-plugins-plus-snippets：一些片段的Hexo蝴蝶标签插件加上片段在markdown写作
+1. dsznajder.es7-react-js-snippets：JS/TS中React, React- native和Redux的扩展，使用ES7+语法。可定制的。内置集成与美观。
+1. andys8.jest-snippets：Jest 测试框架的代码片段
+1. PulkitGangwar.nextjs-snippets：nextjs 代码片段
