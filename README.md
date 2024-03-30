@@ -18,7 +18,9 @@
 1. esbenp.prettier-vscode：使用 Prettier 的代码格式化工具
 1. EditorConfig.EditorConfig：Visual Studio Code 的 EditorConfig 支持
 1. dbaeumer.vscode-eslint：将 ESLint JavaScript 集成到 VS Code 中。
+1. stylelint.vscode-stylelint：Official Stylelint extension for Visual Studio Code
 1. KnisterPeter.vscode-commitizen：使用规范进行 Git 提交
+1. vivaxy.vscode-conventional-commits：💬用于VSCode的常规提交。
 1. eamodio.gitlens：在 VS Code 中激发 Git 的超能力
 1. formulahendry.auto-complete-tag：可以自动添加 HTML/XML 的闭合标签和重命名配对标签
 1. TGruntfuggly.todo-tree：在树状视图中显示 TODO、FIXME 等注释标记
@@ -32,10 +34,15 @@
 1. chen86860.json-sorter：用于对 JSON 文件进行排序的 VSCode 扩展
 1. kisstkondoros.vscode-gutter-preview：在边栏和悬停中显示图像预览
 1. jock.svg：SVG 编码、压缩、美化、预览一体化
+1. zh9528.file-size：在状态栏中显示当前文本文件的大小。
+1. kumar-harsh.graphql-for-vscode：GraphQL语法高亮显示、检查、自动完成等等!
+1. digitalbrainstem.javascript-ejs-support：2019 - 支持EJS语言。
+1. hancel.markdown-image：快速在 Markdown 文件中插入一个图片
 1. bpruitt-goddard.mermaid-markdown-syntax-highlighting：Markdown 语法支持 Mermaid 图表语言
 1. Syler.ignore：Adds syntax highlighting and autocompletion for all ignore files.
 1. redhat.vscode-yaml：YAML Language Support by Red Hat, with built-in Kubernetes syntax support
 1. zhangciwu.swig-tpl：A language support for Swig
+1. sysoev.language-stylus：stylus language support
 1. mikestead.dotenv：Support for dotenv file syntax
 1. zhouronghui.propertylist：用于 .plist 文件的 Visual Studio Code 扩展代码片段
 1. ahmadalli.vscode-nginx-conf：Visual Studio Code 的 Nginx 配置助手，包括语法高亮、自动完成、编辑器内文档、嵌入式 Lua 代码块等多项功能
@@ -47,9 +54,11 @@
 1. unifiedjs.vscode-mdx：MDX 语言支持
 1. Divlo.vscode-styled-jsx-languageserver：用于 styled-jsx 的语言服务器
 1. Divlo.vscode-styled-jsx-syntax：styled-jsx 的语法高亮显示
+1. styled-components.vscode-styled-components：styled components 的语法高亮显示
 1. octref.vetur：Visual Studio Code 的 Vue 工具
 1. fantasy.vscode-hexo-utils：用于 Hexo 的 Visual Studio Code 扩展
 1. Dart-Code.flutter：Visual Studio Code 的 Flutter 支持和调试器。
+1. dart-code.dart-code：Dart语言支持和调试器的Visual Studio Code。
 1. golang.go：Visual Studio Code 的丰富 Go 语言支持
 
 ## Rust

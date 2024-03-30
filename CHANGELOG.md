@@ -4,6 +4,18 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.1.0
+
+### Add
+
+1. zh9528.file-size
+1. kumar-harsh.graphql-for-vscode
+1. digitalbrainstem.javascript-ejs-support
+1. hancel.markdown-image
+1. sysoev.language-stylus
+1. styled-components.vscode-styled-components
+1. dart-code.dart-code
+
 ## 1.0.0
 
 The first official version is released
