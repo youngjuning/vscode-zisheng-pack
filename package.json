@@ -1,7 +1,7 @@
 {
   "categories": ["Extension Packs"],
   "description": "紫升's Extension Pack",
-  "displayName": "紫升的扩展合集",
+  "displayName": "紫升的扩展",
   "engines": {
     "vscode": "^1.74.0"
   },

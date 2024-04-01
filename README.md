@@ -1,6 +1,6 @@
 # vscode-luozhu-pack
 
-紫升的扩展合集
+紫升的扩展
 
 ## 必备
 
@@ -48,19 +48,44 @@
 1. ahmadalli.vscode-nginx-conf：Visual Studio Code 的 Nginx 配置助手，包括语法高亮、自动完成、编辑器内文档、嵌入式 Lua 代码块等多项功能
 1. naco-siren.gradle-language：Add Gradle language support for Visual Studio Code
 1. mariusschulz.yarn-lock-syntax：yarn.lock 文件的语法高亮显示
-1. qiu8310.minapp-vscode：WXML 语言支持
 1. clinyong.vscode-css-modules：Visual Studio Code 用于 CSS 模块的扩展程序
 1. syler.sass-indented：缩进的 Sass 语法高亮显示、自动完成和格式化
+1. andys8.jest-snippets：Jest 测试框架的代码片段
+
+## Hexo
+
+1. fantasy.vscode-hexo-utils：用于 Hexo 的 Visual Studio Code 扩展
+1. youngjuning.hexo-butterfly-tag-plugins-plus-snippets：一些片段的Hexo蝴蝶标签插件加上片段在markdown写作
+
+## 小程序
+
+1. qiu8310.minapp-vscode：WXML 语言支持
+
+## Vue
+
+1. octref.vetur：Visual Studio Code 的 Vue 工具
+
+## React
+
 1. unifiedjs.vscode-mdx：MDX 语言支持
 1. Divlo.vscode-styled-jsx-languageserver：用于 styled-jsx 的语言服务器
 1. Divlo.vscode-styled-jsx-syntax：styled-jsx 的语法高亮显示
 1. styled-components.vscode-styled-components：styled components 的语法高亮显示
-1. octref.vetur：Visual Studio Code 的 Vue 工具
-1. fantasy.vscode-hexo-utils：用于 Hexo 的 Visual Studio Code 扩展
+1. PulkitGangwar.nextjs-snippets：nextjs 代码片段
+1. dsznajder.es7-react-js-snippets：JS/TS中React, React- native和Redux的扩展，使用ES7+语法。可定制的。内置集成与美观。
+
+## React Native
+
 1. msjsdiag.vscode-react-native：Visual Studio Code 的 React Native 支持和调试器。
-1. Dart-Code.flutter：Visual Studio Code 的 Flutter 支持和调试器。
-1. dart-code.dart-code：Dart语言支持和调试器的Visual Studio Code。
+
+## Golang
+
 1. golang.go：Visual Studio Code 的丰富 Go 语言支持
+
+## Flutter
+
+1. dart-code.dart-code：Dart语言支持和调试器的Visual Studio Code。
+1. Dart-Code.flutter：Visual Studio Code 的 Flutter 支持和调试器。
 
 ## Rust
 
@@ -69,10 +94,3 @@
 1. tamasfe.even-better-toml：全功能的TOML支持
 1. serayuzgur.crates：帮助Rust开发人员管理Cargo.toml的依赖关系。
 1. bazelbuild.vscode-bazel：Bazel BUILD集成
-
-## 代码片段
-
-1. youngjuning.hexo-butterfly-tag-plugins-plus-snippets：一些片段的Hexo蝴蝶标签插件加上片段在markdown写作
-1. dsznajder.es7-react-js-snippets：JS/TS中React, React- native和Redux的扩展，使用ES7+语法。可定制的。内置集成与美观。
-1. andys8.jest-snippets：Jest 测试框架的代码片段
-1. PulkitGangwar.nextjs-snippets：nextjs 代码片段
