@@ -1,6 +1,6 @@
 {
   "name": "vscode-luozhu-pack",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "displayName": "紫升的扩展",
   "description": "紫升's Extension Pack",
   "icon": "icon-luozhu.png",
@@ -9,7 +9,9 @@
     "type": "github",
     "url": "https://github.com/youngjuning/vscode-luozhu-pack"
   },
-  "categories": ["Extension Packs"],
+  "categories": [
+    "Extension Packs"
+  ],
   "engines": {
     "vscode": "^1.74.0"
   },
