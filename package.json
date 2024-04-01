@@ -1,7 +1,15 @@
 {
-  "categories": ["Extension Packs"],
-  "description": "紫升's Extension Pack",
+  "name": "vscode-luozhu-pack",
+  "version": "1.1.1",
   "displayName": "紫升的扩展",
+  "description": "紫升's Extension Pack",
+  "icon": "icon-luozhu.png",
+  "publisher": "youngjuning",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/youngjuning/vscode-luozhu-pack"
+  },
+  "categories": ["Extension Packs"],
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -73,12 +81,4 @@
     "andys8.jest-snippets",
     "PulkitGangwar.nextjs-snippets"
   ],
-  "icon": "icon-luozhu.png",
-  "name": "vscode-luozhu-pack",
-  "publisher": "youngjuning",
-  "repository": {
-    "type": "github",
-    "url": "https://github.com/youngjuning/vscode-luozhu-pack"
-  },
-  "version": "1.1.1"
 }
