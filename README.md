@@ -57,6 +57,7 @@
 1. styled-components.vscode-styled-components：styled components 的语法高亮显示
 1. octref.vetur：Visual Studio Code 的 Vue 工具
 1. fantasy.vscode-hexo-utils：用于 Hexo 的 Visual Studio Code 扩展
+1. msjsdiag.vscode-react-native：Visual Studio Code 的 React Native 支持和调试器。
 1. Dart-Code.flutter：Visual Studio Code 的 Flutter 支持和调试器。
 1. dart-code.dart-code：Dart语言支持和调试器的Visual Studio Code。
 1. golang.go：Visual Studio Code 的丰富 Go 语言支持

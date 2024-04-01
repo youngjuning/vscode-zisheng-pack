@@ -4,6 +4,12 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.1.2
+
+### Add
+
+1. msjsdiag.vscode-react-native
+
 ## 1.1.1
 
 ### Add
