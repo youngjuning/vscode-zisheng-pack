@@ -93,3 +93,7 @@
 1. vadimcn.vscode-lldb：一个由LLDB提供支持的本地调试器。调试c++， Rust等编译语言。
 1. tamasfe.even-better-toml：全功能的TOML支持
 1. serayuzgur.crates：帮助Rust开发人员管理Cargo.toml的依赖关系。
+
+## C/C++
+
+1. ms-vscode.cpptools-extension-pack：在 Visual Studio Code 中用于 C++ 开发的热门扩展。

@@ -4,6 +4,12 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.1.4
+
+### Add
+
+1. ms-vscode.cpptools-extension-pack
+
 ## 1.1.2
 
 ### Add
