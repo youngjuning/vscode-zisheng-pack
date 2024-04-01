@@ -1,7 +1,7 @@
 {
   "categories": ["Extension Packs"],
-  "description": "Luozhu's Extension Pack",
-  "displayName": "vscode-luozhu-pack",
+  "description": "紫升's Extension Pack",
+  "displayName": "紫升的扩展合集",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -37,7 +37,7 @@
     "kisstkondoros.vscode-gutter-preview",
     "jock.svg",
     "zh9528.file-size",
-    "kumar-harsh.graphql-for-vscode",
+    "graphql.vscode-graphql",
     "digitalbrainstem.javascript-ejs-support",
     "hancel.markdown-image",
     "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
@@ -79,5 +79,5 @@
     "type": "github",
     "url": "https://github.com/youngjuning/vscode-luozhu-pack"
   },
-  "version": "1.1.0"
+  "version": "1.1.1"
 }

@@ -4,6 +4,16 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.1.1
+
+### Add
+
+1. graphql.vscode-graphql
+
+### Remove
+
+1. kumar-harsh.graphql-for-vscode
+
 ## 1.1.0
 
 ### Add
