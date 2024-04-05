@@ -51,6 +51,7 @@
 1. clinyong.vscode-css-modules：Visual Studio Code 用于 CSS 模块的扩展程序
 1. syler.sass-indented：缩进的 Sass 语法高亮显示、自动完成和格式化
 1. andys8.jest-snippets：Jest 测试框架的代码片段
+1. formulahendry.code-runner：对 C、C++、Java、JS、PHP、Python、Perl、Ruby、Go、Lua、Groovy、PowerShell、CMD、BASH、F#、C#、VBScript、TypeScript、CoffeeScript、Scala、Swift、Julia、Crystal、OCaml、R、AppleScript、Elixir、VB.NET、Clojure、Haxe、Obj-C、Rust、Racket、Scheme、AutoHotkey、AutoIt、Kotlin、Dart、Pascal、Haskell 和 Nim 进行运行。
 
 ## Hexo
 
@@ -97,3 +98,11 @@
 ## C/C++
 
 1. ms-vscode.cpptools-extension-pack：在 Visual Studio Code 中用于 C++ 开发的热门扩展。
+
+## Java
+
+1. vscjava.vscode-java-pack：提供 Java IntelliSense、调试、测试、Maven/Gradle 支持、项目管理等功能的热门 Java 开发扩展。
+
+## Python
+
+1. ms-python.python：这是针对 Python 语言支持的一些扩展接入点，包括 IntelliSense（Pylance）、调试（Python Debugger）、代码检查、格式化、重构、单元测试等功能。

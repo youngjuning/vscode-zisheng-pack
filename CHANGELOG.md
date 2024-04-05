@@ -4,6 +4,14 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.2.0
+
+### Add
+
+1. vscjava.vscode-java-pack
+1. formulahendry.code-runner
+1. ms-python.python
+
 ## 1.1.4
 
 ### Add

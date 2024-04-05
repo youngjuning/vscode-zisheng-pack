@@ -1,6 +1,6 @@
 {
   "name": "vscode-luozhu-pack",
-  "version": "1.1.4",
+  "version": "1.2.0",
   "displayName": "紫升的扩展",
   "description": "紫升's Extension Pack",
   "icon": "icon-luozhu.png",
@@ -80,7 +80,10 @@
     "youngjuning.hexo-butterfly-tag-plugins-plus-snippets",
     "dsznajder.es7-react-js-snippets",
     "andys8.jest-snippets",
+    "vscjava.vscode-java-pack",
     "PulkitGangwar.nextjs-snippets",
-    "ms-vscode.cpptools-extension-pack"
+    "formulahendry.code-runner",
+    "ms-vscode.cpptools-extension-pack",
+    "ms-python.python"
   ]
 }
