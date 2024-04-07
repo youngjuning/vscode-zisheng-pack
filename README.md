@@ -1,4 +1,4 @@
-# vscode-luozhu-pack
+# vscode-zisheng-pack
 
 紫升的扩展
 
