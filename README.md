@@ -106,3 +106,4 @@
 ## Python
 
 1. ms-python.python：这是针对 Python 语言支持的一些扩展接入点，包括 IntelliSense（Pylance）、调试（Python Debugger）、代码检查、格式化、重构、单元测试等功能。
+1. ms-python.black-formatter：python 格式化
