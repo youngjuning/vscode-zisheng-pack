@@ -90,10 +90,8 @@
 
 ## Rust
 
-1. rust-lang.rust-analyzer：Rust 语言支持
 1. vadimcn.vscode-lldb：一个由LLDB提供支持的本地调试器。调试c++， Rust等编译语言。
-1. tamasfe.even-better-toml：全功能的TOML支持
-1. serayuzgur.crates：帮助Rust开发人员管理Cargo.toml的依赖关系。
+1. swellaby.rust-pack：Rust 扩展包
 
 ## C/C++
 

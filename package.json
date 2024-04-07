@@ -1,6 +1,6 @@
 {
   "name": "vscode-luozhu-pack",
-  "version": "1.2.0",
+  "version": "1.1.3",
   "displayName": "紫升的扩展",
   "description": "紫升's Extension Pack",
   "icon": "icon-luozhu.png",
@@ -73,17 +73,11 @@
     "Dart-Code.flutter",
     "dart-code.dart-code",
     "golang.go",
-    "rust-lang.rust-analyzer",
     "vadimcn.vscode-lldb",
-    "tamasfe.even-better-toml",
-    "serayuzgur.crates",
+    "swellaby.rust-pack",
     "youngjuning.hexo-butterfly-tag-plugins-plus-snippets",
     "dsznajder.es7-react-js-snippets",
     "andys8.jest-snippets",
-    "vscjava.vscode-java-pack",
-    "PulkitGangwar.nextjs-snippets",
-    "formulahendry.code-runner",
-    "ms-vscode.cpptools-extension-pack",
-    "ms-python.python"
+    "PulkitGangwar.nextjs-snippets"
   ]
 }

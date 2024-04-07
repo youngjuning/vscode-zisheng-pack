@@ -4,6 +4,18 @@ All notable changes to the "vscode-luozhu-pack" extension pack will be documente
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## 1.3.0
+
+### Add
+
+- swellaby.rust-pack
+
+### Remove
+
+- rust-lang.rust-analyzer
+- tamasfe.even-better-toml
+- serayuzgur.crates
+
 ## 1.2.0
 
 ### Add
