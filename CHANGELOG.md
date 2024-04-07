@@ -9,6 +9,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ### Add
 
 - swellaby.rust-pack
+- orta.vscode-jest
 
 ### Remove
 
