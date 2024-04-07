@@ -36,6 +36,7 @@
 1. jock.svg：SVG 编码、压缩、美化、预览一体化
 1. zh9528.file-size：在状态栏中显示当前文本文件的大小。
 1. graphql.vscode-graphql：GraphQL LSP扩展，它添加了自动完成、验证、跳转到定义、悬停提示、大纲视图等功能。
+1. graphql.vscode-graphql-syntax：graphql 语法高亮
 1. digitalbrainstem.javascript-ejs-support：2019 - 支持EJS语言。
 1. hancel.markdown-image：快速在 Markdown 文件中插入一个图片
 1. bpruitt-goddard.mermaid-markdown-syntax-highlighting：Markdown 语法支持 Mermaid 图表语言
